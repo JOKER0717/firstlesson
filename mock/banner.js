@@ -1,0 +1,1 @@
+module.exports=['https://gdp.alicdn.com/imgextra/i1/2669406820/O1CN01kmnmMQ20FbgWEbI1S_!!2669406820.jpg','https://gdp.alicdn.com/imgextra/i4/2669406820/O1CN01pfP8XM20FbgePp16h_!!2669406820.jpg','https://gdp.alicdn.com/imgextra/i3/2669406820/O1CN01aRV2cD20FbgfmXYmu_!!2669406820.jpg']
